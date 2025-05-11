@@ -1,6 +1,8 @@
 # STM32F401RE 
 
-This project demonstrates how to control the brightness of an LED using PWM, based on input from a light sensor. The application is built with C using STM32CubeIDE and the STM32 HAL library for the STM32F401RE Nucleo board.
+The project focuses on how to use multiple sensors in a system. The main goal is to research and utilize various communication protocols commonly used in embedded 
+systems such as SPI, I2C, UART, etc. The development of a multi-sensor system can be applied to a variety of different topics. The application is built with C using STM32CubeIDE and the STM32 HAL library for the STM32F401RE Nucleo board.
+
 
 ---
 
@@ -64,4 +66,9 @@ EX: shared-> drivers -> CMSIS -> Include -> OK.
 
 ---
 Step 5:  In main.c, you can use Src/ folder to generate the code.
- 
+
+- **Light_led.c**  
+  Demonstrates how to control the brightness of an LED using PWM, based on the ambient light level measured by a light sensor.
+
+- **MulTiSenSor.c**  
+  Demonstrates how to read and display data from multiple sensors (temperature, light, and humidity). If any of the sensor values exceed the normal range, the system will trigger an alert by turning on a red LED.
