@@ -51,7 +51,9 @@ Step 3: Link External SDK to Project
 -	Choose all files in “shared” folder.
 EX: shared-> drivers -> CMSIS -> Include -> OK. 
 -	Do not include the ‘lib/’ folder in the include paths.
- 
+
+ ![image](https://github.com/user-attachments/assets/15a1221d-ab81-4a84-90b1-b688b774bacb)
+
 
 4.3. MCU GCC Linker
 - Go to: ‘C/C++ Build > Settings > MCU GCC Linker > Libraries > Library Search Path’.
