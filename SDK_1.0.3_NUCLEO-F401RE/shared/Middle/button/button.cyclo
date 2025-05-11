@@ -1,8 +1,0 @@
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:86:1:Button_Init	3
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:109:1:Button_SetMode	2
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:124:1:Button_GetMode	2
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:138:1:Button_RegisterEventCallback	1
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:152:1:Button_GetLogicInputPin	2
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:167:1:ButtonScanTypeEdge	27
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:252:1:ButtonScan	2
-E:/Tong_quan_VXL-VDK/FILE_C_SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/button/button.c:266:13:BTNGPIO_Init	1
