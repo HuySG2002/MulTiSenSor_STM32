@@ -44,7 +44,8 @@ Step 3: Link External SDK to Project
 - Go to: ‘C/C++ Build > Settings > MCU GCC Compiler > Include Paths’.
 - Click the ‘+’ icon to add paths from the SDK.
 - Use ‘Workspace’ mode and add folders like:
-  ![image](https://github.com/user-attachments/assets/1f6cd885-6255-40c0-8a25-ce0d0130ca50)
+
+   ![image](https://github.com/user-attachments/assets/1f6cd885-6255-40c0-8a25-ce0d0130ca50)
 
 
 -	Choose all files in “shared” folder.
