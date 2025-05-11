@@ -60,5 +60,8 @@ EX: shared-> drivers -> CMSIS -> Include -> OK.
 - Add: SDK -> lib (Library seacrch path (-L) )
 - Click on “+” icon in Libraries (-I) and write “Libraries” in the box.
 
-  Step 5:  In main.c, you can use Src/ folder to generate the code.
+![image](https://github.com/user-attachments/assets/65917548-fbfc-4291-8b00-fbdc84b7c801)
+
+---
+Step 5:  In main.c, you can use Src/ folder to generate the code.
  
